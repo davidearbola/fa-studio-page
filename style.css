@@ -12,7 +12,7 @@ body {
 #container_page {
 	padding: 2rem 0;
 	max-width: 1200px;
-	height: 100vh;
+	height: 100dvh;
 	margin: 0 auto;
 	position: relative;
 }
